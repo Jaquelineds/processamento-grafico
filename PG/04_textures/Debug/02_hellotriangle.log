@@ -1,0 +1,48 @@
+﻿  maths_funcs.cpp
+c:\users\jdsteffenon\downloads\sourcecode\02_hello_triangle\maths_funcs.cpp(139): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\jdsteffenon\downloads\sourcecode\02_hello_triangle\maths_funcs.cpp(258): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\jdsteffenon\downloads\sourcecode\02_hello_triangle\maths_funcs.cpp(262): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jdsteffenon\downloads\sourcecode\02_hello_triangle\maths_funcs.cpp(442): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jdsteffenon\downloads\sourcecode\02_hello_triangle\maths_funcs.cpp(444): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jdsteffenon\downloads\sourcecode\02_hello_triangle\maths_funcs.cpp(445): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jdsteffenon\downloads\sourcecode\02_hello_triangle\maths_funcs.cpp(446): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jdsteffenon\downloads\sourcecode\02_hello_triangle\maths_funcs.cpp(447): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jdsteffenon\downloads\sourcecode\02_hello_triangle\maths_funcs.cpp(454): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jdsteffenon\downloads\sourcecode\02_hello_triangle\maths_funcs.cpp(456): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jdsteffenon\downloads\sourcecode\02_hello_triangle\maths_funcs.cpp(457): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jdsteffenon\downloads\sourcecode\02_hello_triangle\maths_funcs.cpp(458): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jdsteffenon\downloads\sourcecode\02_hello_triangle\maths_funcs.cpp(459): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jdsteffenon\downloads\sourcecode\02_hello_triangle\maths_funcs.cpp(466): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jdsteffenon\downloads\sourcecode\02_hello_triangle\maths_funcs.cpp(468): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jdsteffenon\downloads\sourcecode\02_hello_triangle\maths_funcs.cpp(469): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jdsteffenon\downloads\sourcecode\02_hello_triangle\maths_funcs.cpp(470): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jdsteffenon\downloads\sourcecode\02_hello_triangle\maths_funcs.cpp(471): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jdsteffenon\downloads\sourcecode\02_hello_triangle\maths_funcs.cpp(514): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jdsteffenon\downloads\sourcecode\02_hello_triangle\maths_funcs.cpp(515): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jdsteffenon\downloads\sourcecode\02_hello_triangle\maths_funcs.cpp(580): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jdsteffenon\downloads\sourcecode\02_hello_triangle\maths_funcs.cpp(581): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jdsteffenon\downloads\sourcecode\02_hello_triangle\maths_funcs.cpp(582): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jdsteffenon\downloads\sourcecode\02_hello_triangle\maths_funcs.cpp(583): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jdsteffenon\downloads\sourcecode\02_hello_triangle\maths_funcs.cpp(588): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\jdsteffenon\downloads\sourcecode\02_hello_triangle\maths_funcs.cpp(613): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jdsteffenon\downloads\sourcecode\02_hello_triangle\maths_funcs.cpp(640): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jdsteffenon\downloads\sourcecode\02_hello_triangle\maths_funcs.cpp(650): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jdsteffenon\downloads\sourcecode\02_hello_triangle\maths_funcs.cpp(651): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jdsteffenon\downloads\sourcecode\02_hello_triangle\maths_funcs.cpp(652): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+c:\users\jdsteffenon\downloads\sourcecode\02_hello_triangle\main.cpp(144): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  gl_utils.cpp
+c:\users\jdsteffenon\downloads\sourcecode\02_hello_triangle\gl_utils.cpp(25): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\jdsteffenon\downloads\sourcecode\02_hello_triangle\gl_utils.cpp(32): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(475): note: see declaration of 'ctime'
+c:\users\jdsteffenon\downloads\sourcecode\02_hello_triangle\gl_utils.cpp(40): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\jdsteffenon\downloads\sourcecode\02_hello_triangle\gl_utils.cpp(56): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\jdsteffenon\downloads\sourcecode\02_hello_triangle\gl_utils.cpp(144): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\jdsteffenon\downloads\sourcecode\02_hello_triangle\gl_utils.cpp(154): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  Generating Code...
+  02_hellotriangle.vcxproj -> C:\Users\jdsteffenon\Downloads\sourcecode\Debug\02_hellotriangle.exe

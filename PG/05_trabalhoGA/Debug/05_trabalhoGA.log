@@ -1,0 +1,52 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (02_hellotriangle.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  maths_funcs.cpp
+c:\users\jaqueline\downloads\[tudo] pg\[tudo] pg\pg\05_trabalhoga\maths_funcs.cpp(139): warning C4244: 'return': conversão de 'double' para 'float', possível perda de dados
+c:\users\jaqueline\downloads\[tudo] pg\[tudo] pg\pg\05_trabalhoga\maths_funcs.cpp(258): warning C4244: 'return': conversão de 'double' para 'float', possível perda de dados
+c:\users\jaqueline\downloads\[tudo] pg\[tudo] pg\pg\05_trabalhoga\maths_funcs.cpp(262): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+c:\users\jaqueline\downloads\[tudo] pg\[tudo] pg\pg\05_trabalhoga\maths_funcs.cpp(442): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+c:\users\jaqueline\downloads\[tudo] pg\[tudo] pg\pg\05_trabalhoga\maths_funcs.cpp(444): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+c:\users\jaqueline\downloads\[tudo] pg\[tudo] pg\pg\05_trabalhoga\maths_funcs.cpp(445): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+c:\users\jaqueline\downloads\[tudo] pg\[tudo] pg\pg\05_trabalhoga\maths_funcs.cpp(446): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+c:\users\jaqueline\downloads\[tudo] pg\[tudo] pg\pg\05_trabalhoga\maths_funcs.cpp(447): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+c:\users\jaqueline\downloads\[tudo] pg\[tudo] pg\pg\05_trabalhoga\maths_funcs.cpp(454): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+c:\users\jaqueline\downloads\[tudo] pg\[tudo] pg\pg\05_trabalhoga\maths_funcs.cpp(456): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+c:\users\jaqueline\downloads\[tudo] pg\[tudo] pg\pg\05_trabalhoga\maths_funcs.cpp(457): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+c:\users\jaqueline\downloads\[tudo] pg\[tudo] pg\pg\05_trabalhoga\maths_funcs.cpp(458): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+c:\users\jaqueline\downloads\[tudo] pg\[tudo] pg\pg\05_trabalhoga\maths_funcs.cpp(459): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+c:\users\jaqueline\downloads\[tudo] pg\[tudo] pg\pg\05_trabalhoga\maths_funcs.cpp(466): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+c:\users\jaqueline\downloads\[tudo] pg\[tudo] pg\pg\05_trabalhoga\maths_funcs.cpp(468): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+c:\users\jaqueline\downloads\[tudo] pg\[tudo] pg\pg\05_trabalhoga\maths_funcs.cpp(469): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+c:\users\jaqueline\downloads\[tudo] pg\[tudo] pg\pg\05_trabalhoga\maths_funcs.cpp(470): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+c:\users\jaqueline\downloads\[tudo] pg\[tudo] pg\pg\05_trabalhoga\maths_funcs.cpp(471): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+c:\users\jaqueline\downloads\[tudo] pg\[tudo] pg\pg\05_trabalhoga\maths_funcs.cpp(514): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+c:\users\jaqueline\downloads\[tudo] pg\[tudo] pg\pg\05_trabalhoga\maths_funcs.cpp(515): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+c:\users\jaqueline\downloads\[tudo] pg\[tudo] pg\pg\05_trabalhoga\maths_funcs.cpp(580): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+c:\users\jaqueline\downloads\[tudo] pg\[tudo] pg\pg\05_trabalhoga\maths_funcs.cpp(581): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+c:\users\jaqueline\downloads\[tudo] pg\[tudo] pg\pg\05_trabalhoga\maths_funcs.cpp(582): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+c:\users\jaqueline\downloads\[tudo] pg\[tudo] pg\pg\05_trabalhoga\maths_funcs.cpp(583): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+c:\users\jaqueline\downloads\[tudo] pg\[tudo] pg\pg\05_trabalhoga\maths_funcs.cpp(588): warning C4244: 'argumento': conversão de 'double' para 'float', possível perda de dados
+c:\users\jaqueline\downloads\[tudo] pg\[tudo] pg\pg\05_trabalhoga\maths_funcs.cpp(613): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+c:\users\jaqueline\downloads\[tudo] pg\[tudo] pg\pg\05_trabalhoga\maths_funcs.cpp(640): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+c:\users\jaqueline\downloads\[tudo] pg\[tudo] pg\pg\05_trabalhoga\maths_funcs.cpp(650): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+c:\users\jaqueline\downloads\[tudo] pg\[tudo] pg\pg\05_trabalhoga\maths_funcs.cpp(651): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+c:\users\jaqueline\downloads\[tudo] pg\[tudo] pg\pg\05_trabalhoga\maths_funcs.cpp(652): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+  main.cpp
+c:\users\jaqueline\downloads\[tudo] pg\[tudo] pg\pg\05_trabalhoga\main.cpp(142): warning C4244: 'argumento': conversão de 'double' para 'int', possível perda de dados
+c:\users\jaqueline\downloads\[tudo] pg\[tudo] pg\pg\05_trabalhoga\main.cpp(143): warning C4305: '-=': truncamento de 'double' para 'float'
+c:\users\jaqueline\downloads\[tudo] pg\[tudo] pg\pg\05_trabalhoga\main.cpp(145): warning C4244: 'argumento': conversão de 'double' para 'int', possível perda de dados
+c:\users\jaqueline\downloads\[tudo] pg\[tudo] pg\pg\05_trabalhoga\main.cpp(146): warning C4305: '+=': truncamento de 'double' para 'float'
+c:\users\jaqueline\downloads\[tudo] pg\[tudo] pg\pg\05_trabalhoga\main.cpp(163): warning C4244: 'argumento': conversão de 'double' para 'int', possível perda de dados
+c:\users\jaqueline\downloads\[tudo] pg\[tudo] pg\pg\05_trabalhoga\main.cpp(164): warning C4305: '-=': truncamento de 'double' para 'float'
+c:\users\jaqueline\downloads\[tudo] pg\[tudo] pg\pg\05_trabalhoga\main.cpp(166): warning C4244: 'argumento': conversão de 'double' para 'int', possível perda de dados
+c:\users\jaqueline\downloads\[tudo] pg\[tudo] pg\pg\05_trabalhoga\main.cpp(167): warning C4305: '+=': truncamento de 'double' para 'float'
+  imgui_impl_glfw_gl3.cpp
+  imgui_draw.cpp
+  imgui_demo.cpp
+  imgui.cpp
+  gl_helper.cpp
+c:\users\jaqueline\downloads\[tudo] pg\[tudo] pg\pg\05_trabalhoga\gl_helper.cpp(30): warning C4244: 'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+c:\users\jaqueline\downloads\[tudo] pg\[tudo] pg\pg\05_trabalhoga\gl_helper.cpp(32): warning C4244: 'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+c:\users\jaqueline\downloads\[tudo] pg\[tudo] pg\pg\05_trabalhoga\gl_helper.cpp(34): warning C4244: 'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+c:\users\jaqueline\downloads\[tudo] pg\[tudo] pg\pg\05_trabalhoga\gl_helper.cpp(36): warning C4244: 'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+  Gerando Código...
+  05_trabalhoGA.vcxproj -> C:\Users\Jaqueline\Downloads\[TUDO] PG\[TUDO] PG\PG\Debug\05_trabalhoGA.exe

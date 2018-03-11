@@ -1,0 +1,13 @@
+﻿  main.cpp
+c:\users\jdsteffenon\downloads\camera-rafaeldefreitas\sourcecode\06_camera\main.cpp(322): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\jdsteffenon\downloads\camera-rafaeldefreitas\sourcecode\06_camera\main.cpp(433): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\jdsteffenon\downloads\camera-rafaeldefreitas\sourcecode\06_camera\main.cpp(437): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\users\jdsteffenon\downloads\camera-rafaeldefreitas\sourcecode\06_camera\main.cpp(449): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\jdsteffenon\downloads\camera-rafaeldefreitas\sourcecode\06_camera\main.cpp(453): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\users\jdsteffenon\downloads\camera-rafaeldefreitas\sourcecode\06_camera\main.cpp(469): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\users\jdsteffenon\downloads\camera-rafaeldefreitas\sourcecode\06_camera\main.cpp(473): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\jdsteffenon\downloads\camera-rafaeldefreitas\sourcecode\06_camera\main.cpp(478): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\users\jdsteffenon\downloads\camera-rafaeldefreitas\sourcecode\06_camera\main.cpp(482): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\jdsteffenon\downloads\camera-rafaeldefreitas\sourcecode\06_camera\main.cpp(524): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jdsteffenon\downloads\camera-rafaeldefreitas\sourcecode\06_camera\main.cpp(525): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  06_camera.vcxproj -> C:\Users\jdsteffenon\Downloads\Camera-RafaelDeFreitas\sourcecode\Debug\06_camera.exe
